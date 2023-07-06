@@ -1,2 +1,2 @@
 # hello-world
-um repositório de Exercício de Casa 
+## Esse repositório se trata de um Exercício de Casa dado pela Cubos Academy.
